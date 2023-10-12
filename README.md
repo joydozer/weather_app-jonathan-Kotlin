@@ -1,6 +1,6 @@
 <h1 align="center"> Weather App </h1>
 <h3 align="center"> By: Jonathan Wuntu </h3>
-<p align="center"><img src="https://github.com/joydozer/weather_app-jonathan-IONIC/blob/master/src/assets/alur.gif" height="540"/></p>
+<!-- <p align="center"><img src="https://github.com/joydozer/weather_app-jonathan-IONIC/blob/master/src/assets/alur.gif" height="540"/></p> -->
 
 ### ID
 Aplikasi simpel berbasis Android menggunakan Kotlin untuk melihat cuaca.
